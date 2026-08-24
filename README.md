@@ -1,6 +1,6 @@
 # Supplementary Repository for Draft Submission of Chapter Sections | RTG Retreat 2026
 
-This repository contains code, visualisations, corpus metadata, and guidelines for the draft submission of chapter sections of my dissertation "Building Embodied Publics: A Multimodal Corpus Study of Corporeality and Audience Engagement in Poetry Slam" as part of the retreat by the RTG "Literature and the Public Sphere in Differentiated Contemporary Cultures". 
+This repository contains code, visualisations, corpus metadata, and guidelines for the draft submission of dissertation chapter sections of the PhD project "Building Embodied Publics: A Multimodal Corpus Study of Corporeality and Audience Engagement in Poetry Slam" as part of the retreat by the RTG "Literature and the Public Sphere in Differentiated Contemporary Cultures". 
 
 For more information, please contact: 
 
