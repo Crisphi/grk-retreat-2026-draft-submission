@@ -19,4 +19,4 @@ In `Corpus` you can find the [Guidelines for manual data refinement](./Corpus/20
 
 In `Scripts` you can find the [Code used for data crawling and corpus creation](./Scripts/) and the subdirectory `HPE` with scripts for [First exploratory Human Pose Estimations and visualisations](./Scripts/HPE/).
 
-In 
+In `Visualizations` you can find the [Visualizations](./Visualizations/) used in the written draft. 
